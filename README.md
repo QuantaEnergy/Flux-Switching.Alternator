@@ -10,7 +10,7 @@ Wiki: https://en.wikipedia.org/wiki/Flux_switching_alternator
 - https://en.wikipedia.org/wiki/Magnetic_circuit
 - https://en.wikipedia.org/wiki/Permeability_(electromagnetism)
 
-## Magnetic Corr Material
+## Magnetic Core Material
 - https://en.wikipedia.org/wiki/Ferrite_core
 - https://en.wikipedia.org/wiki/Ferrite_(magnet)
 
@@ -20,6 +20,7 @@ Wiki: https://en.wikipedia.org/wiki/Flux_switching_alternator
 
 ## Magnetic Reluctance
 - https://en.wikipedia.org/wiki/Magnetic_reluctance
+
 ### Reluctance Motor
 - https://en.wikipedia.org/wiki/Reluctance_motor
 - https://en.wikipedia.org/wiki/Switched_reluctance_motor
