@@ -14,6 +14,7 @@ Wiki: https://en.wikipedia.org/wiki/Flux_switching_alternator
 - https://en.wikipedia.org/wiki/Ferrite_core
 - https://en.wikipedia.org/wiki/Ferrite_(magnet)
 - https://en.wikipedia.org/wiki/Ferrimagnetism
+- https://en.wikipedia.org/wiki/Ferromagnetism
 
 ## Energy
 - https://en.wikipedia.org/wiki/Magnetomotive_force
