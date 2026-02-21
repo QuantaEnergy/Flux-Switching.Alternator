@@ -7,9 +7,19 @@ Wiki: https://en.wikipedia.org/wiki/Flux_switching_alternator
 
 # Relation:
 - https://en.wikipedia.org/wiki/Magnetic_circuit
+- https://en.wikipedia.org/wiki/Permeability_(electromagnetism)
+- 
+
+- https://en.wikipedia.org/wiki/Magnetomotive_force
+- https://en.wikipedia.org/wiki/Counter-electromotive_force
 
 ## Magnetic Reluctance
 - https://en.wikipedia.org/wiki/Magnetic_reluctance
 ### Reluctance Motor
 - https://en.wikipedia.org/wiki/Reluctance_motor
 - https://en.wikipedia.org/wiki/Switched_reluctance_motor
+
+## Permanent Magnet
+- https://en.wikipedia.org/wiki/Coercivity
+- https://en.wikipedia.org/wiki/Samarium%E2%80%93cobalt_magnet
+- https://en.wikipedia.org/wiki/Alnico
