@@ -6,10 +6,15 @@ A variation on thus is the "swash pkate" style free energy device.
 Wiki: https://en.wikipedia.org/wiki/Flux_switching_alternator
 
 # Relation:
+## Magnetic Circuit
 - https://en.wikipedia.org/wiki/Magnetic_circuit
 - https://en.wikipedia.org/wiki/Permeability_(electromagnetism)
-- 
 
+## Magnetic Corr Material
+- https://en.wikipedia.org/wiki/Ferrite_core
+- https://en.wikipedia.org/wiki/Ferrite_(magnet)
+
+## Energy
 - https://en.wikipedia.org/wiki/Magnetomotive_force
 - https://en.wikipedia.org/wiki/Counter-electromotive_force
 
