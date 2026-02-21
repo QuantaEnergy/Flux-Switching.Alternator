@@ -13,6 +13,7 @@ Wiki: https://en.wikipedia.org/wiki/Flux_switching_alternator
 ## Magnetic Core Material
 - https://en.wikipedia.org/wiki/Ferrite_core
 - https://en.wikipedia.org/wiki/Ferrite_(magnet)
+- https://en.wikipedia.org/wiki/Ferrimagnetism
 
 ## Energy
 - https://en.wikipedia.org/wiki/Magnetomotive_force
@@ -29,3 +30,4 @@ Wiki: https://en.wikipedia.org/wiki/Flux_switching_alternator
 - https://en.wikipedia.org/wiki/Coercivity
 - https://en.wikipedia.org/wiki/Samarium%E2%80%93cobalt_magnet
 - https://en.wikipedia.org/wiki/Alnico
+- https://en.wikipedia.org/wiki/Ferrite_(magnet)
